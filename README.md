@@ -10,3 +10,4 @@ cadastro, altereção, remoção e exibição (CRUD) dos itens:
   - Produtos;
   - Categoria;
  
+ Utiliza de arquivos .txt para fazer o armazenamento de dados, ainda não conectado com banco de dados.
