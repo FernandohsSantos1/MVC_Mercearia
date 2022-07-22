@@ -11,7 +11,7 @@ def criarArquivos(*args):
 print('\n        Bem-Vindo a Mercearia!\n')
 
 criarArquivos('Categoria.txt', 'Cliente.txt', 'Estoque.txt',
-              'Fornecedor.txt', 'Funcionarios.txt', 'Vendas.txt')
+              'Fornecedor.txt', 'Funcionario.txt', 'Vendas.txt')
 
 print('Iniciando sistema...')
 

@@ -1,0 +1,3 @@
+Arroz|17|Graos|Joao|Fernando|5|20/07/2022
+Brocolis|7|Verduras|Joao|Fernando|3|22/07/2022
+Patinho|28|Carnes|Fernando|Joao|2|22/07/2022

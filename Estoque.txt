@@ -1,0 +1,5 @@
+Arroz|17|Graos|95
+Banana|8|Frutas|100
+Patinho|28|Carnes|15
+Pasta de dente|3|Higiene|10
+Brocolis|7|Verduras|15
